@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Broken Mirror",
+  "base_artist": "Architects",
+  "createdAt": "2026-02-20T18:55:48.100830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/01_Broken_Mirror_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blizzard On a Broken Mirror",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/02_Blizzard_On_a_Broken_Mirror_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Trees of Eternity",
+      "has_synced": true,
+      "path": "select/03_Broken_Mirror_Trees_of_Eternity.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BROKEN MIRROR",
+      "artist": "Hardwell",
+      "has_synced": true,
+      "path": "select/04_BROKEN_MIRROR_Hardwell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blizzard on a Broken Mirror (The Wicked Symphony)",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/05_Blizzard_on_a_Broken_Mirror_(The_Wicked_Symphony)_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Planet Trash",
+      "has_synced": false,
+      "path": "select/06_Broken_Mirror_Planet_Trash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BROKEN MIRROR",
+      "artist": "Boom Boom Satellites",
+      "has_synced": true,
+      "path": "select/07_BROKEN_MIRROR_Boom_Boom_Satellites.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Triumvirat",
+      "has_synced": false,
+      "path": "select/08_Broken_Mirror_Triumvirat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blizzard On a Broken Mirror",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/09_Blizzard_On_a_Broken_Mirror_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Bella Hardy",
+      "has_synced": false,
+      "path": "select/10_Broken_Mirror_Bella_Hardy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reflections On a Broken Mirror",
+      "artist": "Chris Robinson Brotherhood",
+      "has_synced": false,
+      "path": "select/11_Reflections_On_a_Broken_Mirror_Chris_Robinson_Brotherhood.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "¡MAYDAY!",
+      "has_synced": false,
+      "path": "select/12_Broken_Mirror_¡MAYDAY!.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Mirror",
+      "artist": "Overtime",
+      "has_synced": true,
+      "path": "select/13_Broken_Mirror_Overtime.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Mirror (feat. Adlib & Sevdaliza)",
+      "artist": "Overtime",
+      "has_synced": false,
+      "path": "select/14_Broken_Mirror_(feat._Adlib_&_Sevdaliza)_Overtime.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Broken Mirror",
+      "artist": "Architects",
+      "has_synced": false,
+      "path": "select/pl_01_Broken_Mirror_Architects.txt"
+    }
+  ]
+}
